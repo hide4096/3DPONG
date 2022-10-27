@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2022 Aso Hidetoshi asouhide2002@gmail.com
+# SPDX-License-Identifier: BSD-3-Clause
 #include<stdio.h>
 #include<math.h>
 #include<time.h>
